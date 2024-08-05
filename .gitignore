@@ -1,0 +1,8 @@
+# Ignore all .mp3 files
+*.mp3
+
+# Ignore all .mp4 files
+*.mp4
+
+# Ignore all .mjpeg files
+*.mjpeg

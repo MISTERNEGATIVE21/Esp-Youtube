@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play Video</title>
+</head>
+<body>
+    <h1>Playing Video</h1>
+    <video controls>
+        <source src="{{ url_for('video', video_id=video_id) }}" type="video/mp4">
+        Your browser does not support the video tag.
+    </video>
+    <audio controls>
+        <source src="{{ url_for('audio', video_id=video_id) }}" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+    <a href="{{ url_for('transcribe', video_id=video_id) }}">Transcribe Audio</a>
+</body>
+</html>
