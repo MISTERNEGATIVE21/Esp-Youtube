@@ -11,7 +11,7 @@ This project demonstrates how to run YouTube on an ESP32 microcontroller using a
 Watch the demonstration video below:
 
 <video width="600" controls>
-  <source src="https://github.com/MISTERNEGATIVE21/Esp-Youtube/blob/main/esp.mp4" type="video/mp4">
+  <source src="https://github.com/MISTERNEGATIVE21/Esp-Youtube/raw/refs/heads/main/esp.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
