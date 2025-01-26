@@ -10,7 +10,7 @@ This project demonstrates how to run YouTube on an ESP32 microcontroller using a
 
 Watch the demonstration video below:
 
-![Esp-Youtube](https://github.com/MISTERNEGATIVE21/Esp-Youtube/blob/74cec2d10dddca95760189b5b4193c1864ccd9d3/espyoutube.mov)
+![Esp-Youtube](https://github.com/MISTERNEGATIVE21/Esp-Youtube/raw/refs/heads/main/espyoutube.mov)
 
 ## Languages Used
 
